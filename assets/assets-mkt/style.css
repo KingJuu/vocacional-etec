@@ -1,0 +1,64 @@
+.sobre-curso{
+    color:  #362C5D;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:5%;
+    border-top:  #362C5D solid ;
+    border-bottom:  #362C5D solid ;
+    margin: 3rem;
+}
+
+.sobre-curso > h2{
+    margin: 1.5em 0em;
+}
+.btn-saiba-mais{
+    background-color:  #362C5D;
+    color: #fff;
+    border: 0em;
+    border-radius:0.5em;
+    padding: 10px 50px;
+    font-size: 1.5em;
+    
+}
+
+.btn-saiba-mais:hover{
+    scale: 1.1;
+    transition: all 0.1s;
+    background-color: #21b8b8;
+}
+
+.trabalho{
+    text-transform: uppercase;
+    background-color: #362C5D;
+    color: #fff;
+    border: 0em;
+    border-radius: 0.5em;
+    width:15em;
+    height: 5em;
+    margin: 0em 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.trabalho:hover{
+    scale: 1.1;
+    transition: all 0.1s;
+    background-color: #21b8b8;
+    color: #211b3a;
+}
+
+.defeitos{
+    background-color: #362C5D;
+    padding: 2% 5%;
+    display:flex;
+    flex-direction: column;
+    color: #fff;
+}
+.defeitos>h2{
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
