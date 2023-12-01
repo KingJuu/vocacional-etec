@@ -335,7 +335,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="b" class="input">
                     <input type="radio" name="p1" value="b" class="p" id="b">
                     <div class="input-content">
-                        <span> >Lembrar-se do impacto positivo que o trabalho pode ter globalmente.
+                        <span> Lembrar-se do impacto positivo que o trabalho pode ter globalmente.
                         </div>
                         </label>
                     
