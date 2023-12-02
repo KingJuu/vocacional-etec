@@ -70,7 +70,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="a" class="input">
                     <input type="radio" name="p1" value="a" class="p" id="a">
                     <div class="input-content">
-                        <span>Baseando-se em análises lógicas, dados e informações concretas.
+                        <span>Baseando-se em análises lógicas e informações concretas.
                         </div>
                 </label>
 
@@ -91,7 +91,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="d" class="input">
                     <input type="radio" name="p1" value="d" class="p" id="d">
                     <div class="input-content">
-                        <span> Utilizando insights, experiências passadas e feedback das pessoas ao seu redor.
+                        <span> Utilizando experiências passadas e considerando o sentimento das pessoas ao seu redor.
                         </div>
                 </label>
 
@@ -154,7 +154,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="d" class="input">
                     <input type="radio" name="p1" value="d" class="p" id="d">
                     <div class="input-content">
-                        <span> Sou persuasivo e capaz de construir relacionamentos sólidos com clientes e colegas. 
+                        <span> Sou persuasivo e capaz de construir relacionamentos sólidos. 
                         </div>
                 </label>
                     
@@ -175,7 +175,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> Comunico-me de maneira clara e empática, essencial para lidar com questões legais.
+                        <span> Comunico-me de maneira clara e empática.
                         </div>
                 </label>
                     
@@ -197,7 +197,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="a" class="input">
                     <input type="radio" name="p1" value="a" class="p" id="a">
                     <div class="input-content">
-                        <span> Abordo de maneira objetiva, procurando soluções práticas e equitativas.
+                        <span> Abordo de maneira objetiva, procurando soluções práticas.
                         </div>
                         </label>
                     
@@ -205,14 +205,14 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="b" class="input">
                     <input type="radio" name="p1" value="b" class="p" id="b">
                     <div class="input-content">
-                        <span> Negócio diplomaticamente, buscando entendimento em contextos culturais diversos
+                        <span> Negócio diplomaticamente, buscando entendimento em contextos diversos.
                         </div>
                         </label>
                     
                 <label for="c" class="input">
                     <input type="radio" name="p1" value="c" class="p" id="c">
                     <div class="input-content">
-                        <span> Gerencio conflitos estrategicamente, visando a coesão e o sucesso da equipe.
+                        <span> Gerencio conflitos estrategicamente, visando o sucesso da equipe.
                         </div>
                         </label>
                     
@@ -240,7 +240,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> Abordo conflitos considerando as implicações legais e éticas, quando necessário.
+                        <span> Abordo conflitos considerando as implicações éticas.
                         </div>
                         </label>
                     
@@ -291,21 +291,21 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="e" class="input">
                     <input type="radio" name="p1" value="e" class="p" id="e">
                     <div class="input-content">
-                        <span> Participando de workshops práticos e aplicando conhecimentos na prática.
+                        <span> Pesquisando em diversas fontes e aplicando conhecimentos na prática.
                         </div>
                         </label>
                     
                 <label for="f" class="input">
                     <input type="radio" name="p1" value="f" class="p" id="f">
                     <div class="input-content">
-                        <span> Certificando-se de entender as normas e protocolos de segurança associados.
+                        <span> Certificando-se de entender as normas e protocolos associados.
                         </div>
                         </label>
                     
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> Investigando a legislação relevante e interpretando-a para abordar o desafio.
+                        <span> Investigando todas as questões e perspectivas em torno do desafio.
                         </div>
                         </label>
                     
@@ -327,7 +327,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="a" class="input">
                     <input type="radio" name="p1" value="a" class="p" id="a">
                     <div class="input-content">
-                        <span> Encontrando soluções inovadoras e mantendo o entusiasmo pelo desafio técnico.
+                        <span> Encontrando soluções inovadoras e mantendo o entusiasmo pelo desafio.
                         </div>
                         </label>
                     
@@ -335,7 +335,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="b" class="input">
                     <input type="radio" name="p1" value="b" class="p" id="b">
                     <div class="input-content">
-                        <span> Lembrar-se do impacto positivo que o trabalho pode ter globalmente.
+                        <span> Lembrar-se do impacto positivo que o trabalho pode ter.
                         </div>
                         </label>
                     
@@ -370,7 +370,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> Lembrando o propósito e a importância da aplicação justa da lei.
+                        <span> Lembrando o propósito e a importância da tarefa.
                         </div>
                         </label>
                     
@@ -421,21 +421,21 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="e" class="input">
                     <input type="radio" name="p1" value="e" class="p" id="e">
                     <div class="input-content">
-                        <span> Focando na gestão de relações interpessoais para suavizar transições
+                        <span> Focando na gestão de relações interpessoais para suavizar as mudanças.
                         </div>
                         </label>
                     
                 <label for="f" class="input">
                     <input type="radio" name="p1" value="f" class="p" id="f">
                     <div class="input-content">
-                        <span> Implementando medidas de segurança adicionais em resposta a mudanças.
+                        <span> Garantindo o bom andamento do projeto.
                         </div>
                         </label>
                     
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> Analisando as implicações legais de mudanças e ajustando conforme necessário.
+                        <span> Analisando as implicações das mudanças e ajustando conforme necessário.
                         </div>
                         </label>
                     
@@ -465,7 +465,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="b" class="input">
                     <input type="radio" name="p1" value="b" class="p" id="b">
                     <div class="input-content">
-                        <span> Explorando diferentes perspectivas e abordagens em projetos globais.
+                        <span> Explorando diferentes perspectivas e abordagens em projetos.
                         </div>
                         </label>
                     
@@ -479,7 +479,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="d" class="input">
                     <input type="radio" name="p1" value="d" class="p" id="d">
                     <div class="input-content">
-                        <span> Concebendo campanhas de marketing criativas e impactantes. 
+                        <span> Desenvolvendo campanhas criativas e impactantes. 
                         </div>
                         </label>
                     
@@ -530,7 +530,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="b" class="input">
                     <input type="radio" name="p1" value="b" class="p" id="b">
                     <div class="input-content">
-                        <span> Incorporando diferentes perspectivas culturais para abordar problemas globais.
+                        <span> Incorporando diferentes perspectivas para abordar os problemas.
                         </div>
                         </label>
                     
@@ -544,7 +544,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="d" class="input">
                     <input type="radio" name="p1" value="d" class="p" id="d">
                     <div class="input-content">
-                        <span> Criando campanhas de marketing que se destacam pela originalidade. 
+                        <span> Criando campanhas de que se destacam pela originalidade. 
                         </div>
                         </label>
                     
@@ -595,7 +595,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="b" class="input">
                     <input type="radio" name="p1" value="b" class="p" id="b">
                     <div class="input-content">
-                        <span> Considerando as implicações emocionais e culturais ao enfrentar desafios globais. 
+                        <span> Considerando as implicações emocionais ao enfrentar desafios globais. 
                         </div>
                         </label>
                     
@@ -609,7 +609,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="d" class="input">
                     <input type="radio" name="p1" value="d" class="p" id="d">
                     <div class="input-content">
-                        <span> Desenvolvendo campanhas de marketing que ressoem com as emoções do público-alvo. 
+                        <span> Desenvolvendo soluções que ressoem com as emoções dos outros. 
                         </div>
                         </label>
                     
@@ -630,7 +630,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> Aplicando a lei de maneira equitativa, considerando as circunstâncias individuais. 
+                        <span> MAntendo a igualdade, considerando as circunstâncias individuais. 
                         </div>
                         </label>
                     
