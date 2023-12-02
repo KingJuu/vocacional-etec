@@ -451,7 +451,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
         
         <div class="question">
             <strong class="num-q">pergunta 8/10</strong>
-            <h2Como você costuma expressar sua criatividade no ambiente profissional e em sua vida pessoal? </h2>
+            <h2>Como você costuma expressar sua criatividade no ambiente profissional e em sua vida pessoal? </h2>
             <div class="inputs">
 
                 <label for="a" class="input">
