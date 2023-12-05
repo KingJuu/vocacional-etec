@@ -565,7 +565,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> ensando de forma inventiva para resolver questões complexas. 
+                        <span> Pensando de forma inventiva para resolver questões complexas. 
                         </div>
                         </label>
                     
@@ -630,7 +630,7 @@ document.querySelector('.enviar').addEventListener('click', ()=>{
                 <label for="g" class="input">
                     <input type="radio" name="p1" value="g" class="p" id="g">
                     <div class="input-content">
-                        <span> MAntendo a igualdade, considerando as circunstâncias individuais. 
+                        <span> Mantendo a igualdade, considerando as circunstâncias individuais. 
                         </div>
                         </label>
                     
